@@ -1,0 +1,23 @@
+export const TRANSLATIONS_ZH = {
+    partydetails:"Party Details",
+    id:"ID",
+    type:"Type",
+    name:"Name",
+    searchparty:"Search Party",
+    search:"Search",
+    addparty:"Add Party",
+    customeraddedmessage:"Customer added successfully.",
+    organisationaddedmessage:"Organisation added successfully.",
+    tpaaddedmessage:"TPA added successfully.",
+    partytype:"Party Type",
+    addcustomer:"Add Customer",
+    firstname:"First Name",
+    middlename:"Middle Name",
+    lastname:"Last Name",
+    addcustomer:"Add Customer",
+    businessname:"Business Name",
+    addbusiness:"Add Business",
+    addorganisation:"Add Organisation",
+    addtpa:"Add TPA",
+    selectpartytype:"Select party type"
+};
